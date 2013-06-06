@@ -1,0 +1,9 @@
+Having lot of plans in life?? Lot of things to do but nothing organized?? Here is an application to help you out for all these factors. Here you can plan your goals & tasks to do to achieve those goals & can have the tracking the achievement of goal.
+	
+Features:
+•	Plan your goals & tasks to do to achieve those goals.
+•	You can have the tracking the achievement of goals.
+•	Add goals through the app bar.
+•	Add Task through the app bar.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
